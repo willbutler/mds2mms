@@ -6,6 +6,10 @@ Convert My Digital Studio projects to My Memory Suite albums.
 
 mds2mms is a command line tool that will modify your My Digital Studio (MDS) project in place to make it compatible with My Memory Suite (MMS).
 
+## Disclaimer
+
+This tool may permanently modify your projects and may cause them to no longer render properly in MDS. You should make a backup of your projects before using it (if you don't have one already). 
+
 ## Usage
 
 ```
